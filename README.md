@@ -14,7 +14,7 @@ Projeto construído no evento Next Level(NLW) Week da Rocketseat.
 
 - HTML
 - CSS
-Git e Github
+- Git e Github
 
 ## Contato
  isaacsrodriguesn@outlook.com
