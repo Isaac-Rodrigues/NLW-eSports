@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level(NLW) Week da Rocketseat.
 
-[Clique aqui para acessar] (https://Isaac-Rodrigues.github.io/NLW-eSports)
+![Clique aqui para acessar] (https://Isaac-Rodrigues.github.io/NLW-eSports)
 
 
 
